@@ -1,0 +1,21 @@
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+
+body{
+background:#f5f1e8;
+padding:20px;
+font-family:Arial,sans-serif;
+
+}
+
+.menu{
+display:block;
+width:100%;
+max-width:900px;
+margin:0 auto 30px auto;
+border-radius:10px;
+box-shadow:0 5px 18px rgba(0,0,0,.15);
+}
